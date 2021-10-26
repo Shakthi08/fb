@@ -15,3 +15,5 @@ function Contact({ src, name }){
         </div>
     );
 }
+
+export default Contact;

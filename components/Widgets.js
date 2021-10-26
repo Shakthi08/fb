@@ -4,13 +4,13 @@ import Contact from "./Contact";
 
 const contacts = [
     { src: "https://i.ibb.co/XDgXXs6/rsz-mom.jpg", name: "Mom" },
-    { src: "https://links.paparect.com/f0p", name: "Dad" },
+    { src: "https://i.ibb.co/XDgXXs6/rsz-mom.jpg", name: "Dad" },
     { src: "https://edunext2-storage-cf.edunexttechnologies.com/1567754370628_sak_lkg.jpg", name: "Bro" },
-    { src: "https://links.paparect.com/f0p", name: "Jeff Bezoz" },
-    { src: "https://links.paparect.com/f0p", name: "Elon Musk" },
-    { src: "https://links.paparect.com/f0p", name: "Bill Gates" },
-    { src: "https://links.paparect.com/f0p", name: "Mark Zuckerberg" },
-    { src: "https://links.paparect.com/f0p", name: "James Bond" },
+    { src: "https://links.papareact.com/f0p", name: "Jeff Bezoz" },
+    { src: "https://links.papareact.com/f0p", name: "Elon Musk" },
+    { src: "https://links.papareact.com/f0p", name: "Bill Gates" },
+    { src: "https://links.papareact.com/f0p", name: "Mark Zuckerberg" },
+    { src: "https://links.papareact.com/f0p", name: "James Bond" },
 
     
 ];
